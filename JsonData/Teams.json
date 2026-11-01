@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "image": "/team-1.jpg",
+        "name": "Olivia Peterson",
+        "role": "Interior Designer",
+        "exp": "5 Years",
+        "number": "+(91) 356 254 854",
+        "desc": "Olivia Peterson was elected to judge the 3-rd edition of Dezeen Awards. Having many of expertise in the design of residential and public spaces - the founder and chier architect of Antra and author of FAIN will look at the best ebtries from over the world."
+    },
+    {
+        "id": 2,
+        "image": "/team-2.jpg",
+        "name": "Mark Jackson",
+        "role": "Co-Founder & CEO",
+        "exp": "5 Years",
+        "number": "+(91) 125 658 165",
+        "desc": "Mark Jackson was elected to judge the 3-rd edition of Dezeen Awards. Having many of expertise in the design of residential and public spaces - the founder and chier architect of Antra and author of FAIN will look at the best ebtries from over the world."
+    },
+    {
+        "id": 3,
+        "image": "/team-3.jpg",
+        "name": "Valeria Novikova",
+        "role": "Lighting Specialist",
+        "exp": "7 Years",
+        "number": "+(91) 568 956 165",
+        "desc": "Valeria Novikova was elected to judge the 3-rd edition of Dezeen Awards. Having many of expertise in the design of residential and public spaces - the founder and chier architect of Antra and author of FAIN will look at the best ebtries from over the world."
+    },
+    {
+        "id": 4,
+        "image": "/team-4.jpg",
+        "name": "Helen Reeves",
+        "role": "Material Consultant",
+        "exp": "7 Years",
+        "number": "+(91) 356 254 856",
+        "desc": "Helen Reeves was elected to judge the 3-rd edition of Dezeen Awards. Having many years of expertise in the design of residential and public spaces - the founder and chief architect of Antra and author of FAIN will look at the best entries from over the world."
+    },
+    {
+        "id": 5,
+        "image": "/team-5.jpg",
+        "name": "Olivia Peterson",
+        "role": "Interior Designer",
+        "exp": "5 Years",
+        "number": "+(91) 356 254 854",
+        "desc": "Olivia Peterson was elected to judge the 3-rd edition of Dezeen Awards. Having many of expertise in the design of residential and public spaces - the founder and chier architect of Antra and author of FAIN will look at the best ebtries from over the world."
+    },
+    {
+        "id": 6,
+        "image": "/team-6.jpg",
+        "name": "Alex Podzemsky",
+        "role": "Graphics Designer",
+        "exp": "6 Years",
+        "number": "+(91) 158 685 345",
+        "desc": "Alex Podzemsky was elected to judge the 3-rd edition of Dezeen Awards. Having many of expertise in the design of residential and public spaces - the founder and chier architect of Antra and author of FAIN will look at the best ebtries from over the world."
+    }
+]
